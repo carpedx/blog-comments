@@ -1,0 +1,7 @@
+{
+    "defaultCommentOrder": "newest",
+    "originsRegex": [
+        "https://carpedx.com",
+        "https://.*\\.carpedx.com"
+    ]
+}
